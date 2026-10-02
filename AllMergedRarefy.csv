@@ -1,0 +1,137 @@
+,X3A,X3B,X3C,X3D,X3E,X3F,X3G,X3H,X3I,X3J,X5A,X5B,X5C,X5D,X5E,X5F,X5G,X5H,X5I,X5J,X6A,X6B,X6C,X6D,X6E,X6F,X6G,X6H,X6I,X6J,X7A,X7B,X7C,X7D,X7E,X7F,X7G,X7H,X7I,X7J
+Row.names,X3A,X3B,X3C,X3D,X3E,X3F,X3G,X3H,X3I,X3J,X5A,X5B,X5C,X5D,X5E,X5F,X5G,X5H,X5I,X5J,X6A,X6B,X6C,X6D,X6E,X6F,X6G,X6H,X6I,X6J,X7A,X7B,X7C,X7D,X7E,X7F,X7G,X7H,X7I,X7J
+Treatment,PFP,PFP,PFP,PFP,PFP,PFP,PFP,PFP,PFP,PFP,NFP,NFP,NFP,NFP,NFP,NFP,NFP,NFP,NFP,NFP,Par,Par,Par,Par,Par,Par,Par,Par,Par,Par,Ctrl,Ctrl,Ctrl,Ctrl,Ctrl,Ctrl,Ctrl,Ctrl,Ctrl,Ctrl
+Treatment2,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Pyrethroid+fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Neonicotinoid+Fungicide+parasite,Parasite,Parasite,Parasite,Parasite,Parasite,Parasite,Parasite,Parasite,Parasite,Parasite,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control
+Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae (Subgroup 1);?;?, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,25, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0
+Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae (Subgroup 1);Granulicella;uncultured Acidobacteria bacterium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bacteria;Acidobacteria;Acidobacteriia;Acidobacteriales;Acidobacteriaceae (Subgroup 1);Terriglobus;?,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;?,0,0,0,1,0,1,0,0,1,2,0,0,0,0,5,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,0
+Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Actinomycetaceae;Actinomyces;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bombiscardovia;?, 803,4047,1158, 564,3311, 942, 866, 953, 224, 527, 606,1664, 483,1226, 895,1263, 766, 772, 992, 501, 287,1161, 444, 886,1430, 833,1163, 874, 403, 580, 241, 638, 525, 652, 354,2405,9794,2889,1075,1327
+Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;?, 5, 5, 0, 6, 8, 0, 1, 5, 1, 1, 1, 0, 2, 5,10, 6, 3, 4,12, 2, 4, 3, 1,14, 7,15,21, 3, 2, 3, 4, 0, 0,33, 2, 3, 7, 3, 0, 1
+Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Lawsonella;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+Bacteria;Actinobacteria;Actinobacteria;Frankiales;Geodermatophilaceae;Blastococcus;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Dermabacteraceae;Brachybacterium;?,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Intrasporangiaceae;?;?,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;?;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,2,0,0,0
+Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Curtobacterium;Flavobacterium sp. RA-17,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;?;?, 0, 1, 0, 0, 1, 0, 1, 2, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 3, 0, 1, 1, 1, 2, 1, 1, 2, 0, 0, 2, 3, 0, 1, 5, 0, 3, 2,19, 1, 1
+Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Micrococcus;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,2,2,0,0,0,0
+Bacteria;Actinobacteria;Rubrobacteria;Rubrobacterales;Rubrobacteriaceae;Rubrobacter;Rubrobacter naiadicus,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6,1,0
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 1;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;?,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Bacteroidetes;Bacteroidia;Chitinophagales;Chitinophagaceae;Ferruginibacter;metagenome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0
+Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Weeksellaceae;Cloacibacterium;?, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,18, 0, 0, 1, 0, 1, 2
+Bacteria;Bacteroidetes;Bacteroidia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter;?, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,16, 2, 0, 0
+Bacteria;Chloroflexi;Chloroflexia;Thermomicrobiales;JG30-KF-CM45;?;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Chloroflexi;KD4-96;metagenome;?;?;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bacteria;Cyanobacteria;Sericytochromatia;?;?;?;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;?,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;Deinococcus geothermalis DSM 11300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Meiothermus;?,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,3,0,1,1,3,3,0,1,0,2,2,0,2,0,1,4,5,1,2
+Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Thermus;?,0,2,1,0,1,0,0,0,0,0,0,0,0,1,2,2,0,0,3,1,0,2,0,0,0,2,7,0,0,0,0,0,1,1,0,0,0,3,2,0
+Bacteria;Epsilonbacteraeota;Campylobacteria;Campylobacterales;Arcobacteraceae;Arcobacter;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus;?, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 1, 0, 9, 0, 0, 0, 1, 3, 3, 4, 2, 1, 0, 1, 0, 1, 0, 3, 0, 0, 3,17, 1, 0
+Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Effusibacillus;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Tumebacillus;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Aeribacillus;?,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,5,1,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Anoxybacillus;uncultured organism,  2,  5,  3,  5, 13,  6,  5, 14,  2,  2,  6,  7,  2, 15,  7, 19,  8,  2, 55,  3,  7,  4,  6, 18,  8,  6, 52,  8,  8, 12, 16,  7,  6, 69,  5, 12, 38,196,  9, 14
+Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;?, 1, 5, 3, 0, 3, 2, 6, 4, 1, 2, 6, 1, 0, 8, 5, 4, 0, 0,12, 1, 1, 5, 2, 5,11, 9, 9, 0, 4, 5, 6, 0, 1,17, 2, 2,10,45, 7, 6
+Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Caldalkalibacillus;?, 1, 3, 3, 4, 7, 1, 3, 5, 1, 0, 4, 2, 1, 4, 7, 5, 2, 3,22, 1, 0, 8, 5,15, 4, 4,21, 8, 5, 5,21, 4, 3,25, 1, 6,21,70, 7,10
+Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus;?, 1, 0, 0, 1, 3, 2, 0, 4, 0, 0, 2, 1, 0, 0, 1, 3, 0, 1,13, 1, 0, 1, 2, 1, 1, 3, 4, 2, 2, 1, 1, 1, 2, 0, 3, 1, 1,15, 6, 3
+Bacteria;Firmicutes;Bacilli;Bacillales;Family XI;Gemella;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;?,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,2,3,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Sporolactobacillaceae;Sporolactobacillus;?,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Sporolactobacillaceae;Terrilactibacillus;?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,4,0,0
+Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus auricularis,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,3,1
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Aerosphaera;?,1,2,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Granulicatella;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;?, 0, 3, 2, 2, 0, 3, 0, 4, 0, 1, 0, 3, 2, 4, 7, 7, 2, 0,13, 0, 4, 4, 2, 7, 2, 0,12, 6, 0, 2, 2, 0, 2, 0, 1, 2, 0, 7,13, 0
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Vagococcus;?,0,0,0,0,1,0,2,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,7,1,4,6,0,1,1,0,0,1,0,0,0,0,1,0,0
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?, 0, 0, 1, 4, 5, 2, 4, 2, 1, 4, 1, 1, 0, 0, 6, 4, 0, 1, 3, 1, 4,11, 0, 1, 1, 0, 1, 2, 7, 3, 0, 1, 1, 1, 1, 1, 0,13, 3, 1
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus apis (Firm-5), 1901, 3241,  993, 1314, 2668, 2178, 7724, 4746,  433,  471,  923, 1511, 1471,  231,  346, 4344,  801, 2213, 2305, 1956, 1341, 3919, 1656, 1094, 3383, 3388,  229, 5496, 3747, 1065,  321,    9,10585,   92, 3341,  573,   32,  725, 2204,   44
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus bombi, 3052, 1346, 2899, 4194, 3613, 8976, 2128, 1357, 1070, 2538, 1812, 7075,  393, 3211, 5268, 3933,  341,  195, 1661,   98,   17, 1601, 5867,11973,  485, 1318, 3813, 2668, 4757, 3056, 1110,  244, 2546, 1416,  754, 2664, 1617, 2902, 6661, 3276
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus bombicola, 4751, 8660,10143, 2841,16736, 3401, 5144, 6310, 6070, 1006, 2458, 5852, 2640, 5711, 4815, 2564,34777,13184,19255,17096, 1042, 8459,14416, 4190, 1226, 2769, 3400, 9903, 3054,11746, 4570, 2700, 6017, 8539, 6186, 9665, 1917, 6365, 3561, 4570
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus kunkeei,  1,  0,  5,  3, 24, 16,  4, 14,  7,  1,  1,  0,  4,116,  8, 26,  7, 21, 53,  0, 67, 41, 23, 20,  8,  2,  5, 11, 19, 21,  9,  4,  8,  3, 32, 19, 12, 43, 41,  8
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Fructobacillus;Fructobacillus fructosus, 0, 0, 0, 2, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,20, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0
+Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;?,0,0,1,0,0,2,2,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,5,1,1
+Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;?;?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 10;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,0,0,2,0,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 5;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Fonticella;Fonticella tunisiensis,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Ezakiella;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Family XVI;Carboxydocella;?,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;?;?,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,4,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,7,0,1
+Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Peptoclostridium;[Clostridium] hiranonis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Family III;Caldicellulosiruptor;?,1,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4,0,0,1,3,0,0,5,0,1,3,3,0,0
+Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobius;?,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,4,1,1,2,6,0,0
+Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Carboxydothermus;?, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 1, 2, 0, 1, 0, 2, 0, 3, 1, 0, 0, 4, 1, 2, 2, 0, 2, 0, 0, 3, 2, 4, 2,16, 0, 3
+Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;ZOR0006;?, 1, 1, 1, 4, 4, 0, 6, 4, 1, 0, 1, 2, 3,11, 6, 3, 0, 2,15, 5, 1, 2, 6,19, 0,18,14, 7, 1, 3, 9, 3, 1,27, 0, 5, 3, 0, 0, 0
+Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;?;?, 0, 0, 4, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 5, 0, 1, 6, 0, 2, 1, 2, 7, 2, 1, 4, 2, 0, 2, 1, 1, 0, 9, 0, 1, 0,16, 2, 1
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;?;?, 0, 3, 0, 0, 3, 3, 2, 2, 2, 0, 0, 1, 0, 0,97,11, 0, 0, 4, 1, 2, 4, 3, 0, 2, 0, 1, 3, 0, 2, 0, 0, 2, 0, 0, 7, 1, 0,18,39
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Acidiphilium;?, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,15
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Acidisoma;?,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Commensalibacter;?,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Endobacter;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Gluconacetobacter;Gluconacetobacter liquefaciens, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2,24, 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Gluconobacter;?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Acetobacterales;Acetobacteraceae;Neokomagataea;?, 0, 1, 6, 4, 1, 0, 2, 1, 1, 0, 0, 2, 1, 1, 1, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 1, 0, 2,14, 0, 0
+Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylobacterium;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;?;?,1,1,0,0,0,0,1,0,0,1,0,0,0,0,2,1,1,0,1,0,0,0,0,6,2,1,1,0,3,0,1,0,0,2,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;?;uncultured Rhizobiales bacterium, 0, 2, 2, 0, 3, 0, 2, 3, 0, 0, 2, 0, 2, 1, 4, 3, 0, 0, 2, 1, 0, 0, 1, 6, 0, 6, 8, 0, 3, 2, 5, 2, 0,10, 0, 2, 0, 0, 0, 0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium;?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Candidatus Tokpelaia;?, 0,11, 5, 4,11, 6, 9, 4, 0, 2, 4, 7, 4, 7,17,14, 2, 4,26, 6, 2, 2,16,32, 7,15,34, 7,15, 3, 9, 1, 0,42, 0, 4, 6, 4, 0, 1
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Phyllobacterium;?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;?;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Bradyrhizobium;?,0,2,0,0,2,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,3,0,1,2,0,0,7,1,0,0,5,0,1,0,7,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;?,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,5,0,0,0,3,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,1,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter;?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;?;?,11, 9, 2, 2, 2, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 0, 1, 0, 0, 1, 3, 1, 0, 0, 0, 4, 0, 0, 3, 0, 5, 0, 2, 0, 2
+Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0
+Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;?, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 1, 2, 1, 1, 0, 0, 2, 4, 1, 0, 2, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0,43, 6, 4, 0
+Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Snodgrassella;Snodgrassella alvi,64139,57169,59380,65635,47921,59085,57987,61029,66866,70113,68747,58429,69544,63895,62514,62097,37925,58204,49159,54935,71591,59226,52014,54871,67758,65806,64707,55431,62398,53127,67949,70882,54915,62164,63923,43985,60763,60785,60962,30273
+Bacteria;Proteobacteria;Gammaproteobacteria;?;?;?;?,  4, 10, 22, 55, 68, 52,464, 93, 33, 11, 10, 39, 25, 86,152,133, 40, 46,196, 25,240, 87, 85,142,146, 14, 28,112, 33,122, 49, 96, 54, 23, 74, 26, 53,188, 74, 51
+Bacteria;Proteobacteria;Gammaproteobacteria;Acidithiobacillales;Acidithiobacillaceae;KCM-B-112;uncultured Chromatiaceae bacterium,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;?,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;?;?, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 5, 2, 6, 2, 1,10, 7, 1, 1, 5, 1, 0,28, 2, 6,19,42,11, 6
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Aquabacterium;?,0,0,0,0,0,0,1,1,2,0,3,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Comamonas;?,  4, 10,  1,  0,  0,  2,  2,  1,  0,  7,  0,  1,  4,  1,  0,  1,  1,  1,  6,  4,  3,  1,  1,  2,  0,  1,  3,  0,  1,  1,  1,  1,  2,231,  1,  0,  3,  5,  7, 15
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Curvibacter;?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Massilia;?,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Pelomonas;?, 0, 0, 1, 9, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 8, 1, 0, 0, 2, 1, 0, 2, 3, 1, 1, 1, 0, 0, 1,12, 1, 2, 1,11, 1, 0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Polaromonas;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Schlegelella;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,2,8,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Tepidimonas;?,1,1,0,0,0,0,0,0,1,0,0,2,0,2,1,1,0,1,2,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,1,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Hydrogenophilaceae;Hydrogenophilus;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Hydrogenophilaceae;Tepidiphilus;Tepidiphilus succinatimandens,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,1,0,1,0,0,1,0,0,0,1,0,0,3,5,0,1
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;?;?,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Rhodocyclaceae;Dechloromonas;?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;?;?, 10, 32,  7, 17, 21,  2, 22, 20,  6,  5, 17, 14, 19, 21, 44, 33, 10, 15, 93, 10,  9, 24, 39,107, 19, 65,167, 22, 21, 20, 41, 12, 12,134,  4,  8, 46, 25,  3,  7
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia;Hafnia sp. NJ-71,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,2,1,0,0,0,1,2,1,0,0,0,0,0,1,0,0,0,0,0,2,3,0,8,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Sodalis;?, 14, 51, 22, 15, 82, 12,109, 45, 11, 20, 53, 36, 36, 61,120, 65, 15, 23,223, 35, 38, 38, 45,307, 54,137,241, 47, 60, 43, 85, 35, 13,326, 17, 28, 62, 25, 10, 13
+Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Incertae Sedis;Unknown Family;Acidibacter;?,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;Legionella jordanis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;?, 3, 3, 2, 2, 5, 2, 6, 9, 0, 0, 2, 3, 3, 8, 4, 7, 4, 2,23, 4, 2, 5, 2,13, 3, 7,21, 5, 2, 6,14, 4, 3,26, 0, 5,17,85, 7, 6
+Bacteria;Proteobacteria;Gammaproteobacteria;Orbales;Orbaceae;?;?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Bacteria;Proteobacteria;Gammaproteobacteria;Orbales;Orbaceae;Candidatus Schmidhempelia;uncultured gamma proteobacterium,    9,   15,   23,   22,   28,   16,   18,   19,   15,    7,   12,   26,   22,   29,   20,   28,   13,   11,   22,   11,   16,   29,   16,  287,   87,   20,   24,   21,   12, 4783,   24,   22,   45,   26,   16,15234,   28,   19,   35,35034
+Bacteria;Proteobacteria;Gammaproteobacteria;Orbales;Orbaceae;Frischella;Frischella perrara,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,3,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,2,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Orbales;Orbaceae;Gilliamella;?, 39,105, 56, 37,180, 27,166, 80, 15, 38, 79, 72, 90, 84,259,133, 47, 52,405, 59, 52, 86, 81,559, 87,227,618, 80,126, 90,188, 73, 18,590, 37, 61,148, 63, 20, 18
+Bacteria;Proteobacteria;Gammaproteobacteria;Orbales;Orbaceae;Gilliamella;Gilliamella apicola, 4, 3, 3, 7, 0,11,10,11, 5, 2, 0, 3, 4, 7, 6, 4, 1, 1, 4, 1, 6, 3, 2, 5, 1, 6, 2, 4, 0, 8, 7, 9, 5, 3, 4, 3, 2, 6, 8, 3
+Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;uncultured organism,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,1,1,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;?, 17, 23, 19, 10, 40, 14, 68, 15,  2,  6, 24, 17, 12, 20,102, 36,  6, 14,112,  6, 21, 18, 31,139, 24, 64,104, 24, 34, 25, 47, 23,  6,148,  4, 11, 50, 22,  2,  9
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Enhydrobacter;?,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,1,0,0,2,1,0,0,0,7,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;?;?,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;?, 2, 0, 3, 2, 2, 3, 0, 7, 3, 2, 0, 1, 1, 0, 3, 2, 0, 4, 9, 1, 2, 3, 1,14, 3, 2, 7, 3, 4, 2, 5, 2, 1,55, 3, 1, 2,23, 4, 7
+Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Luteibacter;Luteibacter sp. CC13G,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Bacteria;Tenericutes;Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasma;?,1,5,2,0,1,0,0,0,0,2,1,0,1,1,1,0,1,0,1,0,0,0,0,0,1,7,0,0,0,0,1,0,0,0,0,2,0,0,0,0
+Bacteria;Verrucomicrobia;Verrucomicrobiae;Chthoniobacterales;Chthoniobacteraceae;Candidatus Udaeobacter;Verrucomicrobia bacterium OR-59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,5,0,0,0,0,0,0,0,0,0,0
