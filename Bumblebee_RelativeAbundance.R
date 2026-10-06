@@ -165,7 +165,7 @@ ggsave("Family_Rel_Abundance.pdf", plot = Family_Rel_Ab, width = 12, height = 8,
 
 
 ### ======================================================================= ###
-### 2. Counts table ####
+### 2. Counts table (Suppl.material1:table S3) ####
 ### This table is a summary of the counts per taxa per group (core and non-core).
 
 ### Change the name of the data frame
