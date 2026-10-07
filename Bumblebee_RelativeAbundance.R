@@ -1,7 +1,7 @@
 ### ======================================================================= ###
 ### Title: Bumblebee Microbiome Analysis - Relative abundance
 
-### Description: This script outlies the analysis of alpha diversity used in 
+### Description: This script outlies the analysis of relative abundance used in 
 ### "Field-relevant stressors alter the bumblebee gut microbial community".
 ### Date of the last modification: Aug 26th, 2026
 ### ======================================================================= ###
@@ -40,7 +40,7 @@ library(stringr)
 ### ======================================================================= ###
 ### Read in the data:
 
-AllMergedRarefy = read.csv("AllMergedRarefy.csv", row.names = 1, check.names = FALSE)
+AllMergedRarefy = read.csv(file.choose(), row.names = 1, check.names = FALSE)
 raw <- AllMergedRarefy
 
 data_t <- as.data.frame(t(raw), stringsAsFactors = FALSE)
