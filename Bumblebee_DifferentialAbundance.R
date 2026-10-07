@@ -1,23 +1,74 @@
+### ======================================================================= ###
+### Title: Bumblebee Microbiome Analysis - Differential Abundance Analysis
+
+### Description: This script outlies the DESeq2 used in 
+### "Field-relevant stressors alter the bumblebee gut microbial community".
+### Date of the last modification: Oct 6th, 2026
+### ======================================================================= ###
+
+### Housekeeping
+
+rm(list=ls())
+
+### Installing packages and loading libraries
+
 # biocLite("DESeq2")
 # source("https://bioconductor.org/biocLite.R")
 library(phyloseq)
 library(DESeq2)
 
-# AllMerged
-# AllMerged2
 
 
+### ======================================================================= ###
+### Read in table
+AllMergedFull <- read.csv(file.choose())
+str(AllMergedFull)
 
-load("../Assigned.RData")
+### Give sample names
+sample_names <- as.character(AllMergedFull[1, 2:ncol(AllMergedFull)])
+length(sample_names)
+sample_names
 
+### Give treatment names
+treatment <- as.character(AllMergedFull[2, 2:ncol(AllMergedFull)])
+length(treatment)
+treatment
 
-str(AllMerged)
+### Prepare factors for DESeq2
+Factors4Deseq <- data.frame(Treatment = treatment, row.names = sample_names)
+Factors4Deseq$Treatment <- factor(Factors4Deseq$Treatment)
+dim (Factors4Deseq)
 
-Counts4Deseq=as.matrix(t(AllMerged[,4:ncol(AllMerged)]))
+### Prepare table for DESeq2 analysis
+Counts4Deseq <- as.matrix(AllMergedFull[4:nrow(AllMergedFull), 2:ncol(AllMergedFull)])
+dim(Counts4Deseq)
 
-Factors4Deseq=data.frame(row.names=colnames(Counts4Deseq), AllMerged$Treatment)
-LasiDESeq2Obj=DESeqDataSetFromMatrix(Counts4Deseq, Factors4Deseq, ~AllMerged.Treatment)
+rownames(Counts4Deseq) <- AllMergeFull[4:nrow(AllMergedFull), 1]
+colnames(Counts4Deseq) <- as.character(AllMergedFull[1, 2:ncol(AllMergedFull)])
+head(Counts4Deseq)
 
+### Check for negative values
+Counts4Deseq <- matrix(
+  as.numeric(trimws(Counts4Deseq)),
+  nrow = nrow(Counts4Deseq),
+  ncol = ncol(Counts4Deseq),
+  dimnames = dimnames(Counts4Deseq)
+)
+class(Counts4Deseq)
+typeof(Counts4Deseq)
+min(Counts4Deseq)
+
+### Sanity check
+all(colnames(Counts4Deseq) == rownames(Factors4Deseq))
+table(Factors4Deseq$Treatment)
+
+### ======================================================================= ###
+### Run DESeq2
+LasiDESeq2Obj <- DESeqDataSetFromMatrix(
+  countData = Counts4Deseq,
+  colData = Factors4Deseq,
+  design = ~Treatment
+)
 
 gm_mean = function(x, na.rm=TRUE){
   exp(sum(log(x[x > 0]), na.rm=na.rm) / length(x))
