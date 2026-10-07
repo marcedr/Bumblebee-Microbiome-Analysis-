@@ -1,7 +1,7 @@
 ### ======================================================================= ###
 ### Title: Bumblebee Microbiome Analysis - Beta diversity
 
-### Description: This script outlies the analysis of alpha diversity used in 
+### Description: This script outlies the analysis of beta diversity used in 
 ### "Field-relevant stressors alter the bumblebee gut microbial community".
 ### Date of the last modification: Aug 25th, 2026
 ### ======================================================================= ###
@@ -51,7 +51,8 @@ library(phyloseq)
 ### ======================================================================= ###
 ### Read in the data:
 
-AllMergedRarefyRDS = readRDS("AllMergedRarefy.rds")
+AllMergedRarefyRDS = readRDS(file.choose())
+
 class(AllMergedRarefyRDS)
 str(AllMergedRarefyRDS)
 
@@ -112,10 +113,6 @@ capture.output (permanova_metaMDS_T, file = "permanova_metaMDS_T.txt")
 ### 1.2 Bray - Pairwise PERMANOVA ####
 
 ### Get all pairwise combinations of treatment groups
-metadata = read.table("factors.txt",
-                      header = TRUE,
-                      sep = "\t")
-
 groups   <- metadata$Treatment
 combos   <- combn(unique(groups), 2, simplify = FALSE)
 
