@@ -58,7 +58,7 @@ library(ggplot2)
 ### ======================================================================= ###
 ### Read in the data:
 
-AllMergedRarefyRDS = readRDS("AllMergedRarefy.rds")
+AllMergedRarefyRDS = readRDS(file.choose())
 class(AllMergedRarefyRDS)
 str(AllMergedRarefyRDS)
 
